@@ -1,0 +1,59 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.0.4",
+	"appid": "wx3e12eba4bfc6521e",
+	"projectname": "chminiProgram",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 1,
+			"list": [
+				{
+					"id": 0,
+					"name": "nexus",
+					"pathName": "pages/nexus/nexus",
+					"query": "",
+					"scene": "1005"
+				},
+				{
+					"id": 1,
+					"name": "index",
+					"pathName": "pages/index/index",
+					"query": "",
+					"scene": "1044",
+					"shareInfo": {
+						"groupName": "测试模拟群1",
+						"shareName": "WwHx8yCdWN_ieJfW8sng7tDFad3VmIu6XHfgowiCq4c@cr4dev",
+						"shareKey": "JPD1ngyQevvRTglfYI-puVy_udnieTEFpXwOm-AaXmvVHTBJUC10kXh6XK-9jFY3jwhVGjzXQZIB7E0e8MmVDw~~"
+					}
+				}
+			]
+		}
+	}
+}

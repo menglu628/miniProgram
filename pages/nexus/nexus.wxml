@@ -1,0 +1,2 @@
+<!--nexus.wxml-->
+<view bindtouchend="bindNexus">123</view>
