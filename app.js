@@ -1,14 +1,6 @@
 //app.js
-var Apex = require("utils/apex_sensorsdata.min.js");
-// Apex.init();
-var N = App;
-
-App = function App(t) {
-  Apex.d(t, "onLaunch", (options) => {
-    Apex.init(options);
-  });
-  N(t);
-}
+var Apex = require("utils/apex_statistics.min.js");
+Apex.init();
 
 App({
   onLaunch: function (options) {
