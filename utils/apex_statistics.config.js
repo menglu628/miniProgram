@@ -1,14 +1,16 @@
 var conf = {
 	//数据接收地址
-    server_url: "https://az-datacollection-test.chinapex.com.cn",
+    server_url: "https://lc.ch.com/Self/CollectForPC",
 	//小程序的appid
 	appId: "wx3e12eba4bfc6521e",
 	//小程序的appsecret
 	appSecret: "6cfb2b4d9c11784744a16748a758f096",
+	// 是否开启埋点
+	autoTrack: true,
 	//表示是否是生产环境,false模式下控制台有log日志
-	isProd: false,
+	isProd: true,
 	//非必传，用于匹配各个方法自动添加名称等配置信息。例如：register表示在方法中的名字。
-	log_event: {
+	event: {
 		register: {
 			type: "tap",
 			event: "event",
