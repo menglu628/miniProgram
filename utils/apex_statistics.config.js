@@ -1,6 +1,6 @@
 var conf = {
 	//数据接收地址
-    server_url: "https://lc.ch.com/Self/CollectForPC",
+    server_url: "https://lc.ch.com/self/CollectForApex",
 	//小程序的appid
 	appId: "wx3e12eba4bfc6521e",
 	//小程序的appsecret

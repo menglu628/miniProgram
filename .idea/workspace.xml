@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9bd37df0-6a63-48e7-ad56-82b32cd994c5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/apex_statistics.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/apex_statistics.min.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,33 +17,38 @@
     <session id="1456509550">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.44" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="js" value="10" />
+          <entry key="wxml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JavaScript" value="10" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="1302" />
+          <entry key="wxml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="1302" />
+          <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -56,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/utils/apex_statistics.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="103" column="86" lean-forward="true" selection-start-line="103" selection-start-column="86" selection-end-line="103" selection-end-column="86" />
+            <state relative-caret-position="575">
+              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
               <folding>
                 <element signature="e#102#1619#0" />
               </folding>
@@ -69,7 +73,7 @@
         <entry file="file://E:/apex_ch_1.1/apex_statistics.min.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="6220" selection-start-column="6220" selection-end-column="6220" />
+              <caret column="6227" selection-start-column="6227" selection-end-column="6227" />
             </state>
           </provider>
         </entry>
@@ -96,6 +100,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/index/index.wxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils/apex_statistics.config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -108,7 +121,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>eve</find>
       <find>utils/apex_statistics.min_1.js</find>
       <find>sendevent</find>
       <find>change</find>
@@ -138,6 +150,7 @@
       <find>send</find>
       <find>sendE</find>
       <find>user</find>
+      <find>touch</find>
     </findStrings>
     <dirStrings>
       <dir>E:\miniProgram</dir>
@@ -153,6 +166,7 @@
         <option value="$PROJECT_DIR$/app.js" />
         <option value="E:/apex_ch_1.1/apex_statistics.min.js" />
         <option value="$PROJECT_DIR$/utils/apex_statistics.min.js" />
+        <option value="$PROJECT_DIR$/pages/index/index.wxml" />
       </list>
     </option>
   </component>
@@ -205,7 +219,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/apex/TMS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -236,16 +250,16 @@
       <workItem from="1539653481150" duration="4132000" />
       <workItem from="1539673717907" duration="10705000" />
       <workItem from="1539740827216" duration="7763000" />
-      <workItem from="1539756929418" duration="981000" />
+      <workItem from="1539756929418" duration="1818000" />
+      <workItem from="1539761937007" duration="386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30143000" />
+    <option name="totallyTimeSpent" value="31366000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15191546" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -279,6 +293,23 @@
     <entry file="file://$PROJECT_DIR$/utils/apex_statistics.min_1.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/utils/apex_statistics.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#102#1619#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/apex_ch_1.1/apex_statistics.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6227" selection-start-column="6227" selection-end-column="6227" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -296,27 +327,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/index.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/utils/apex_statistics.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="46" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/apex_ch_1.1/apex_statistics.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6220" selection-start-column="6220" selection-end-column="6220" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/apex_statistics.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="106" column="50" lean-forward="true" selection-end-line="424" selection-end-column="22" />
-          <folding>
-            <element signature="e#102#1619#0" />
-          </folding>
         </state>
       </provider>
     </entry>
